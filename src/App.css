@@ -1,4 +1,5 @@
 .App {
+  padding: 20px;
   text-align: center;
 }
 
@@ -35,4 +36,10 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.list-tag{
+  display: flex;
+  column-gap: 10px;
 }
